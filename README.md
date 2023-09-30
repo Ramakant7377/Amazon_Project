@@ -1,1 +1,1 @@
-# Amazon_Project
+Amazon frontend clone using html and css only :)
